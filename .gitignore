@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data
+data/
+*.csv
+*.h5
+*.zip
+*.tar.gz
+
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
